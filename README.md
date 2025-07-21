@@ -38,7 +38,7 @@ Predicting employee salaries manually can be inaccurate and biased. Our goal is 
 
 ## 🧠 Models Implemented
 
-- Logistic Regression ✅ *(Best Performing)*
+- Logistic Regression : *(Best Performing)*
 - Random Forest Classifier  
 - Support Vector Machine (SVM)  
 - Naive Bayes Classifier  
@@ -81,7 +81,7 @@ This model can be easily deployed using:
 ## 🔗 GitHub Link
 
 [👉 Click here to view the full project on GitHub](https://github.com/KSSRUTHI/Employee-Salary-Prediction_IBM-SkillsBuild/tree/main)  
-*(Update this with your actual repo link)*
+
 
 ---
 
