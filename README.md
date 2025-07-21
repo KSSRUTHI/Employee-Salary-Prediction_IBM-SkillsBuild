@@ -76,13 +76,7 @@ This model can be easily deployed using:
 
 ---
 
-## 🧪 Sample Outputs
 
-![Confusion Matrix](#)  
-![Accuracy Output](#)  
-*(Insert actual screenshots from your notebook)*
-
----
 
 ## 🔗 GitHub Link
 
