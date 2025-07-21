@@ -80,7 +80,7 @@ This model can be easily deployed using:
 
 ## 🔗 GitHub Link
 
-[👉 Click here to view the full project on GitHub](https://github.com/your-username/employee-salary-prediction)  
+[👉 Click here to view the full project on GitHub](https://github.com/KSSRUTHI/Employee-Salary-Prediction_IBM-SkillsBuild/tree/main)  
 *(Update this with your actual repo link)*
 
 ---
@@ -90,15 +90,6 @@ This model can be easily deployed using:
 - Successfully predicted salary brackets using machine learning  
 - Logistic Regression offered a good balance between performance and interpretability  
 - The project helps automate salary classification and supports HR decision-making
-
----
-
-## 🔮 Future Scope
-
-- Add more features like job title, skill level, and company type  
-- Use deep learning models for better accuracy  
-- Convert the model into a real-time salary predictor web app
-
 ---
 
 ## 📚 References
